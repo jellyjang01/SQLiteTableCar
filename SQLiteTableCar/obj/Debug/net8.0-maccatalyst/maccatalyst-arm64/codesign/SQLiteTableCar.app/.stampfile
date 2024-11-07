@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/jiraphat/projects/SQLiteTableCar/SQLiteTableCar/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/jiraphat/projects/SQLiteTableCar/SQLiteTableCar/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/SQLiteTableCar.app
